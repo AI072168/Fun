@@ -7,7 +7,7 @@
 int main(){
 
 printf("F");
-
+printf("u");
 
 return 0;
 
